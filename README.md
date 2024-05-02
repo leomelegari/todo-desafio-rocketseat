@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="https://masterizando-tailwind-eta.vercel.app/" target="_blank">Clique aqui</a> para acessar a versão web
+  <a href="https://todo-desafio-rocketseat.vercel.app/" target="_blank">Clique aqui</a> para acessar a versão web
 </p>
 
 ## 🖥️ Projeto
